@@ -1415,7 +1415,7 @@ footer .footer__nav a:hover {
     display: none;
   }
   .top-block {
-    background: url("../img/top-bg-mobile.webp") top center no-repeat;
+    background: url("../img/top-bg-mobile.png") top center no-repeat;
     background-size: cover;
     background-position-x: 80%;
   }
