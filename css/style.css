@@ -1479,6 +1479,10 @@ footer .footer__nav a:hover {
   .solutions {
     padding: 56px 0;
   }
+
+  .solutions__slider {
+    overflow: hidden;
+  }
   .solutions__slide {
     width: 269px;
     border-radius: 20px;
@@ -1503,6 +1507,10 @@ footer .footer__nav a:hover {
   }
   .reviews h2 {
     display: none;
+  }
+
+  .reviews__slider {
+    overflow: hidden;
   }
   .reviews__slide {
     width: 317px;
