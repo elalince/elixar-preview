@@ -648,6 +648,7 @@ footer .footer__nav a:hover {
 .solutions {
   padding: 88px 0;
   background: #fff;
+  overflow-x: hidden;
 }
 .solutions__slider {
   display: flex;
@@ -724,6 +725,7 @@ footer .footer__nav a:hover {
 
 .reviews {
   padding: 120px 0 0;
+  overflow-x: hidden;
 }
 .reviews__slider {
   display: flex;
